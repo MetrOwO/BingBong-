@@ -6,3 +6,6 @@ To do for logger.c:
 To do for inputSender.c:
   - [ ] Actually idk
   - [ ] Maybe something like a rubber ducky, but I'm not sure about that
+
+
+OFC this is for educational purposes only
