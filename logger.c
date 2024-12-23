@@ -1,4 +1,6 @@
 #include "tools.h"
+
+
 #define BUFFERSIZE 256
 #define EOF_MARKER -1 // Segnalatore custom EOF
 
