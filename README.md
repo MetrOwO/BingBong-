@@ -11,4 +11,4 @@ To do for inputSender.c:
 OFC this is for educational purposes only
 
 !! COMPILE !!
-- gcc <file.c> -lws2_32
+- WINDOWS --> gcc <file.c> -lws2_32

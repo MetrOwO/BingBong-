@@ -26,7 +26,7 @@ int createServer();
 
 
 
-//This save the files on the wrong machine... This is the **CLIENT** machine fuckig idiot
+//I Feel Like Jesus
 int initialiseSocketClient(char* ip_address) {
     WSADATA wsa;
     SOCKET s;
